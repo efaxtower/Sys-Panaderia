@@ -98,9 +98,3 @@ Corre en mi **servidor local** con:
 *"Hecho para mi papá - Construido con ❤️ desde Venezuela"*
 
 </div>
-
-## 🧠 Lógica de Negocio
-
-### Cálculo de Precios
-
-El sistema calcula el precio de venta basado en:
